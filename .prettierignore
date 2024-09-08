@@ -1,0 +1,16 @@
+node_modules
+dist
+.env
+.env.*
+*.env
+
+#Hardhat files
+cache
+artifacts
+
+package-lock.json
+bin/*
+.env.*
+
+lib
+
